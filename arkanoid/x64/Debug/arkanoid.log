@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(137): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(225): warning C4305: =: усечение из "double" в "float"
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(227): warning C4305: =: усечение из "double" в "float"
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(229): warning C4305: =: усечение из "double" в "float"
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(247): warning C4305: =: усечение из "double" в "float"
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(338): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(349): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(361): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\evgen\desktop\курсова робота шпира євген ік-01\проект\arkanoid\arkanoid\main.cpp(522): warning C4715: launchGame: значение возвращается не при всех путях выполнения
+  arkanoid.vcxproj -> C:\Users\Evgen\Desktop\Курсова Робота Шпира Євген ІК-01\Проект\arkanoid\x64\Debug\arkanoid.exe

@@ -1,0 +1,9 @@
+Points:9    Time of the game: 27.78 sec
+Points:3    Time of the game: 6.80 sec
+Points:70    Time of the game: 3.72 min
+Points:3    Time of the game: 6.79 sec
+Points:11    Time of the game: 8.27 sec
+Points:2    Time of the game: 4.53 sec
+Points:3    Time of the game: 6.85 sec
+Points:4    Time of the game: 10.14 sec
+Points:5    Time of the game: 12.76 sec
